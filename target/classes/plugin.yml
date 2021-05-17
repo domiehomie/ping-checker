@@ -1,0 +1,13 @@
+main: live.mufin.pingchecker.Main
+description: Allows you to check ping of players.
+version: 1.0
+api-version: 1.13
+prefix: PC
+author: mufin
+website: mufin.live
+name: PingChecker
+
+commands:
+  ping:
+    description: Allows you to check the ping of a player!
+    usage: /<command> <player>
